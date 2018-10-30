@@ -3,7 +3,7 @@
 var friendsArray = [
     {
         name: "Mister Kit",
-        photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj49dSE3KfeAhVm4IMKHQ9gDS0QjRx6BAgBEAU&url=http%3A%2F%2Fwww.hssv.org%2Fwhat-we-do%2Fadopt%2Fadoptable-pets%2F&psig=AOvVaw2U3nPbXqSlZwlUa4PGzAEF&ust=1540758862736692",
+        photo: "https://www.catster.com/wp-content/uploads/2018/05/A-gray-cat-crying-looking-upset.jpg",
         scores: [
             "1",
             "3",
@@ -19,7 +19,7 @@ var friendsArray = [
     },
     {
         name: "Miss Kitty",
-        photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwizndrk3qfeAhVI4YMKHWO5Bm0QjRx6BAgBEAU&url=https%3A%2F%2Fwww.nycacc.org%2F&psig=AOvVaw2U3nPbXqSlZwlUa4PGzAEF&ust=1540758862736692",
+        photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdrICtkBMj3DKe4PEetlEdsOGAFPW_OQmjNGdf-tx25t_v6nzP",
         scores: [
             "2",
             "3",
@@ -35,7 +35,7 @@ var friendsArray = [
     },
     {
         name: "Miss Meow",
-        photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiYqde24afeAhXxoIMKHaZkAfIQjRx6BAgBEAU&url=https%3A%2F%2Fwww.apk4now.com%2Fapk%2F174862%2Fcool-cat-wallpaper&psig=AOvVaw2U3nPbXqSlZwlUa4PGzAEF&ust=1540758862736692",
+        photo: "https://d17fnq9dkz9hgj.cloudfront.net/uploads/2012/11/91615172-find-a-lump-on-cats-skin-632x475.jpg",
         scores: [
             "3",
             "4",
@@ -51,7 +51,7 @@ var friendsArray = [
     },
     {
         name: "Mister Fluff",
-        photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjWnvvI4qfeAhUB0YMKHVg3DjEQjRx6BAgBEAU&url=https%3A%2F%2Fimgur.com%2Fgallery%2FJt1sl%2Fcomment%2F688823942&psig=AOvVaw2U3nPbXqSlZwlUa4PGzAEF&ust=1540758862736692",
+        photo: "https://images.jagran.com/naidunia/cat_24_11_2016.jpg",
         scores: [
             "4",
             "1",
@@ -68,3 +68,4 @@ var friendsArray = [
 ];
 
 module.exports = friendsArray;
+
